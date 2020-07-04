@@ -1,5 +1,5 @@
 <!DOCTYPE html >
-<html  ng-app = 'resume'>
+<html  ng-app = 'listData'>
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
@@ -16,7 +16,7 @@
   </head>
   <body>
     
-      <div ng-controller = "resumeControl">
+      <div ng-controller = "showData">
          
          
         <table class="table table-striped w-25">

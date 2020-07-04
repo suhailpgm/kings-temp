@@ -1,6 +1,6 @@
-var fetch = angular.module("resume", []);
+var fetch = angular.module("listData", []);
 
-fetch.controller("resumeControl", [
+fetch.controller("showData", [
   "$scope",
   "$http",
   function ($scope, $http) {
